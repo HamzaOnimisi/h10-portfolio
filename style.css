@@ -20,7 +20,6 @@ a {
 /* HEADER SECTION START */
 
 header {
-    z-index: 1000;
     padding: 10px;
     display: flex;
     justify-content: space-between;
