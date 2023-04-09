@@ -27,6 +27,7 @@ header {
     position: fixed;
     width: 100%;
     background: #fff;
+    z-index: 100000;
 }
 
 header .logo {
